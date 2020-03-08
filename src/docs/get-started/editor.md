@@ -50,7 +50,7 @@ Alternatively, you can also use IntelliJ:
 To install these:
 
  1. Start Android Studio.
- 1. Open plugin preferences (**Preferences > Plugins** on macOS,
+ 1. Open plugin preferences (**Android Studio > Preferences > Plugins** on macOS,
     **File > Settings > Plugins** on Windows & Linux).
  1. Select **Marketplace**,  select the Flutter plugin and click
     **Install**.
